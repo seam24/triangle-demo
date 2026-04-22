@@ -1,4 +1,4 @@
-name: python package matrix test concurrency: 
+name: python package matrix test concurrency
 
 on:
   push:
